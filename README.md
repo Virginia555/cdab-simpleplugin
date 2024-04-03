@@ -16,7 +16,7 @@ For a detailed description of these Test Scenarios, please visit the following l
 
 ## How It Works
 
-To discover how this plugin operates, please click on **[Start the Plugin](#)**. This link will guide you to a detailed wiki page explaining the step-by-step process of our testing tool.
+To discover how this plugin operates, please click on **[Start the Plugin](https://github.com/Virginia555/cdab-simpleplugin/wiki)**. This link will guide you to a detailed wiki page explaining the step-by-step process of our testing tool.
 
 ## Why a Web-Based Interface?
 
