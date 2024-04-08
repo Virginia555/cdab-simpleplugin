@@ -12,7 +12,7 @@ This public repository is dedicated to explaining and showcasing the codes used 
 
 ## Test Scenarios
 
-The chosen Test Scenarios for this plugin are **TS01** and **TS02**. These scenarios have been selected because they are the fastest, allowing us to test the download speeds of the site based on the different locations of the user's computer.
+The chosen Test Scenarios for this plugin are **TS01**:Simple data search and single download and **TS02**: Complex data search and bulk download. These scenarios have been selected because they are the fastest, allowing us to test the download speeds of the site based on the different locations of the user's computer.
 
 For a detailed description of these Test Scenarios, please visit the following link: [Test Scenarios Description](https://github.com/esacdab/cdab-testsuite/wiki/Test-Scenarios-Description).
 
