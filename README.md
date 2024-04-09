@@ -23,6 +23,8 @@ To discover how this plugin operates, please click on **[Start the Plugin](https
 ## Results Visualization
 
 The results obtained from running the plugin will be automatically visualized through a Google Sheet. Specifically, for simplicity, results will be specific to a particular Test Case. You can view the Google Sheet directly by clicking [here](https://docs.google.com/spreadsheets/d/1kPkhk67xB-buh6V4EsR9-M2-cub_SreJ56ivTYjCRgk/edit#gid=0). Alternatively, you can view them tabulated within the web-based interface by clicking a button located on the main page of the application.
+![image](https://github.com/Virginia555/cdab-simpleplugin/assets/127101224/7102c132-39db-410d-9575-638e33274c00)
+
 
 ## Why a Web-Based Interface?
 
