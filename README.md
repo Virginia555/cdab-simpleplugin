@@ -20,6 +20,10 @@ For a detailed description of these Test Scenarios, please visit the following l
 
 To discover how this plugin operates, please click on **[Start the Plugin](https://github.com/Virginia555/cdab-simpleplugin/wiki)**. This link will guide you to a detailed wiki page explaining the step-by-step process of our testing tool.
 
+### Results Visualization
+
+The results obtained from running the plugin will be automatically visualized through a Google Sheet. Specifically, for simplicity, results will be specific to a particular Test Case. You can view the Google Sheet directly by clicking [here](https://docs.google.com/spreadsheets/d/1kPkhk67xB-buh6V4EsR9-M2-cub_SreJ56ivTYjCRgk/edit#gid=0). Alternatively, you can view them tabulated within the web-based interface by clicking a button located on the main page of the application.
+
 ## Why a Web-Based Interface?
 
 The decision to develop a web-based interface was driven by the need for speed and efficiency in running Test Scenarios. This interface allows for quick setup, execution, and visualization of results, optimizing the benchmarking process.
